@@ -5,7 +5,7 @@ user-guide-description: Una colección de vídeos y tutoriales para Adobe Mix Mo
 audience: all
 doc-type: video
 auto-video-transcripts: true
-source-git-commit: db311146e2ee3b75d1b19be909f0fda95213ba36
+source-git-commit: c4ed694b5ec4644307c6a7c6b355a652ecc81cb6
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 59%
