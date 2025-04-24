@@ -5,20 +5,18 @@ user-guide-description: Una colección de vídeos y tutoriales para Adobe Mix Mo
 audience: all
 doc-type: video
 auto-video-transcripts: true
-source-git-commit: c4ed694b5ec4644307c6a7c6b355a652ecc81cb6
+source-git-commit: a0adf6fe046011f6394e993feb5e2282be66eec4
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 59%
+source-wordcount: '34'
+ht-degree: 55%
 
 ---
 
 
-# Tutorials Adobe Mix Modeler {#tutorials}
+# Tutoriales de Adobe Mix Modeler {#tutorials}
 
 + [Tutoriales de Mix Modeler](/help/tutorials/overview.md)
-+ Introducción al Mix Modeler {#intro}
-   + [Información general](/help/tutorials/intro/understanding-mix-modeler.md)
-   + [Casos de uso](/help/tutorials/intro/use-cases.md)
++ Introducción a Mix Modeler {#intro}
    + [Flujo de trabajo de usuario](/help/tutorials/intro/user-workflow.md)
    + [Demostración de extremo a extremo](/help/tutorials/intro/demo.md)
    + [Recorrido de interfaz de usuario](/help/tutorials/intro/user-interface-tour.md)
