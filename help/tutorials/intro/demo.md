@@ -1,5 +1,5 @@
 ---
-title: Demostración completa del Mix Modeler
+title: Demostración completa de Mix Modeler
 description: Descubra el flujo de trabajo completo de Adobe Mix Modeler.
 role: Developer, User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Demostración completa del Mix Modeler
+# Demostración completa de Mix Modeler
 
-Consulte una demostración completa de Adobe Mix Modeler. Para obtener más información, consulte la [documentación del Mix Modeler](https://experienceleague.adobe.com/en/docs/mix-modeler/using/overview).
+Consulte una demostración completa de Adobe Mix Modeler. Para obtener más información, consulte la [documentación de Mix Modeler](https://experienceleague.adobe.com/en/docs/mix-modeler/using/overview).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440794/?learn=on&enablevpops)
