@@ -19,4 +19,4 @@ ht-degree: 23%
 
 Conozca el flujo de trabajo del Mix Modeler. Para obtener más información, consulte la documentación de [flujo de trabajo del Mix Modeler](https://experienceleague.adobe.com/es/docs/mix-modeler/using/get-started/workflow).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424854?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440206?learn=on&enablevpops&captions=spa)
