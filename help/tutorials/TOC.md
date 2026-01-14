@@ -5,10 +5,10 @@ user-guide-description: Una colección de vídeos y tutoriales para Adobe Mix Mo
 audience: all
 doc-type: video
 auto-video-transcripts: true
-source-git-commit: a0adf6fe046011f6394e993feb5e2282be66eec4
+source-git-commit: d671050ee37161860ac6a3c64c78595c4d80c5f5
 workflow-type: tm+mt
-source-wordcount: '34'
-ht-degree: 55%
+source-wordcount: '38'
+ht-degree: 52%
 
 ---
 
@@ -20,3 +20,5 @@ ht-degree: 55%
    + [Flujo de trabajo de usuario](/help/tutorials/intro/user-workflow.md)
    + [Demostración de extremo a extremo](/help/tutorials/intro/demo.md)
    + [Recorrido de interfaz de usuario](/help/tutorials/intro/user-interface-tour.md)
++ Funcionalidades {#features}
+   + [Planificación basada en objetivos](/help/tutorials/features/goal-based-planning.md)
