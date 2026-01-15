@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Planificación basada en objetivos
 
-Con la función de planificación basada en objetivos de Mix Modeler, puede planificar a partir de sus objetivos empresariales y no solo de su presupuesto. Puede asignar sus presupuestos de forma eficiente entre canales y campañas para lograr sus objetivos con el máximo ROI. Para obtener más información, consulte [Planes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/plans/overview){target="_blank"} en la documentación de Mix Modeler.
+Con la función de planificación basada en objetivos de Mix Modeler, puede planificar a partir de sus objetivos empresariales y no solo de su presupuesto. Puede asignar sus presupuestos de forma eficiente entre canales y campañas para lograr sus objetivos con el máximo ROI. Para obtener más información, consulte [Planes](https://experienceleague.adobe.com/es/docs/mix-modeler/using/plans/overview){target="_blank"} en la documentación de Mix Modeler.
 
 >[!SLIDE](goal-based-planning)
 
