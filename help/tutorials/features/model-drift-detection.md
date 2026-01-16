@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Detección de deriva del modelo
 
-Con la función de detección de deriva del modelo en Mix Modeler, la deriva en los modelos se detecta automáticamente y se le ofrece tomar medidas inmediatamente o explorar la deriva con más detalle. Para obtener más información, consulte [Deriva de modelo](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} en la documentación de Mix Modeler.
+Con la función de detección de deriva del modelo en Mix Modeler, la deriva en los modelos se detecta automáticamente y se le ofrece tomar medidas inmediatamente o explorar la deriva con más detalle. Para obtener más información, consulte [Deriva de modelo](https://experienceleague.adobe.com/es/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} en la documentación de Mix Modeler.
 
 >[!SLIDE](model-drift-detection)
 
