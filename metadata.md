@@ -1,14 +1,13 @@
 ---
 cloud: Experience Cloud
 solution: Mix Modeler
-product: mix modeler
 type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/mix-modeler-learn.es-ES
-source-git-commit: cdf2d8be116afcc9d4d565620ee2a909884ff7b3
+source-git-commit: 2ed374fe9dcd71de94caa9eff170063c0b5c7777
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -17,4 +16,4 @@ ht-degree: 96%
 
 El archivo metadata.md incluye metadatos de nivel de repositorio que pasan a la guía del usuario de los archivos TOC.md en el repositorio. Si desea cambiar el contenido de metadata.md para cualquier guía del usuario, hágalo en cualquier archivo de TOC.md.
 
-Consulte [Metadatos](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html) para obtener una lista de valores válidos por **solución**, **producto** y **tipo**.
+Consulte [Metadatos](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=es) para obtener una lista de valores válidos por **solución**, **producto** y **tipo**.
